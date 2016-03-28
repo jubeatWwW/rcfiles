@@ -13,3 +13,5 @@ unset SSH_ASKPASS
 
 export PATH
 export PS1="[\@][\u@\h \w]\n ༼ つ0_0 ༽つ "
+
+#test
