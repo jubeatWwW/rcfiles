@@ -12,4 +12,4 @@ PATH=$PATH:$HOME/.local/bin:$HOME/bin
 unset SSH_ASKPASS
 
 export PATH
-export PS1="[\@][\u@\h \w]\n ༼ つ0_0 ༽つ "
+export PS1="\e[0;32m[\@]\e[0;36m[\u@\h \w]\e[m\n ༼ つO_O ༽つ "
