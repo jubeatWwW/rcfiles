@@ -2,7 +2,7 @@
 !#/bin/sh
 
 cp -R ./zsh $HOME
-cp ./.zshrcAuto $HOME
+cp ./.zshrcAuto $HOME/.zshrc
 cp ./.screenrc $HOME
 cp ./.vimrc $HOME
 
