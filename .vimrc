@@ -125,6 +125,7 @@ set expandtab
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
+set backspace=indent,eol,start
 
 " tab length exceptions on some file types
 autocmd FileType html setlocal shiftwidth=4 tabstop=4 softtabstop=4
